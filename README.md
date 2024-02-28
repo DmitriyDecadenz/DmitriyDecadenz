@@ -7,8 +7,10 @@ Hi 👋 My name is Dmitriy Khubulashvil
 
 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-melancholydecadenz-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/melancholydecadenz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dima.hubul@icloud.com)
-
+- :mailbox: Как связаться со мной: [![Telegram Badge]
+[![Static Badge](https://img.shields.io/badge/VK-white?style=for-the-badge&logo=Vk&logoColor=blue)](https://vk.com/melancholydecadenz)
+[![Static Badge](https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:dima.hubul@icloud.com)
+[![Static Badge](https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram&logoColor=)](https://t.me/melancholydecadenz)
 ---
 
 ### 🤝 Социальные сети:
