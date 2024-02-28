@@ -3,7 +3,7 @@ Hi 👋 My name is Dmitriy Khubulashvil
 
 ### :man_technologist: About me:
 
-Я Backend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с изучения Python. После был промежуток в пару месяцев, где я пробовал себя в Frontend,но больше всего меня зацепила Backend разработка!
+I'm a Backend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey into it began with learning Python. After that there was a gap of a couple of months where I tried my hand at Frontend development, but most of all I was hooked on Backend development!
 
 
 
