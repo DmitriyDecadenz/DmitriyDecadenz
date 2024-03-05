@@ -8,7 +8,7 @@ I'm a Backend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 
 ### Contact me:
-[![Static Badge](https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:dima.hubul@icloud.com)
+[![Static Badge](https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:dima.workhubul@gmail.com)
 [![Static Badge](https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram&logoColor=)](https://t.me/melancholydecadenz)
 ---
 
