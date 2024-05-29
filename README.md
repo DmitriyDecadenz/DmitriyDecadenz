@@ -12,7 +12,7 @@ I'm a Backend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 [![Static Badge](https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram&logoColor=)](https://t.me/melancholydecadenz)
 ---
 
-### Social network 🤝:
+### _**Social network**_ 🤝
 
   <div id="badges">
 	<a href="https://vk.com/melancholy_decadenz" target="_blank">
