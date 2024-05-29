@@ -4,21 +4,12 @@ Hi 👋 My name is Dmitriy Khubulashvil
 ### :man_technologist: About me:
 
 I'm a Backend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey into it began with learning Python. After that there was a gap of a couple of months where I tried my hand at Frontend development, but most of all I was hooked on Backend development!
-
+---
 
 
 ### _**Contact me**_ 📫
 [![Static Badge](https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:dima.workhubul@gmail.com)
 [![Static Badge](https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram&logoColor=)](https://t.me/melancholydecadenz)
----
-
-### _**Social network**_ 🤝
-
-  <div id="badges">
-	<a href="https://vk.com/melancholy_decadenz" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
 
 ---
 
